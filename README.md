@@ -7,61 +7,77 @@ Aspiring Linux System Administrator and AWS Cloud Engineer with hands-on experie
 ---
 
 ## About Me
-- 🐧 Linux System Administration (RHEL)
-- ☁️ AWS Cloud (EC2, VPC, ALB, Auto Scaling, IAM)
-- ⚙️ DevOps Basics (Automation & Scripting)
-- 🌐 Networking (TCP/IP, DNS, Subnetting)
+
+* 🐧 Linux System Administration (RHEL, Process & Service Management)
+* ☁️ AWS Cloud (EC2, VPC, IAM, ALB, Auto Scaling)
+* ⚙️ DevOps Tools (Git, Bash Scripting, CloudWatch basics)
+* 🌐 Networking (TCP/IP, DNS, Subnetting)
 
 ---
 
 ## Featured Projects
 
-### 🐧 Linux Administration
-https://github.com/chaitanya647/linux-admin-projects  
-- FTP Server (vsftpd)
-- NFS Configuration
-- Apache Virtual Hosting
+### Linux Administration
+
+🔗 https://github.com/chaitanya647/linux-admin-projects
+
+* Configured secure FTP server with user-based access control and file transfer between clients
+* Implemented NFS for centralized file sharing across Linux systems
+* Hosted multiple websites using Apache Virtual Hosting
 
 ---
 
 ### AWS Cloud Projects
-https://github.com/chaitanya647/aws-cloud-projects  
-- VPC (Public & Private Subnets)
-- EC2 Deployment
-- ALB + Auto Scaling
-- IAM + CloudFormation
+
+🔗 https://github.com/chaitanya647/aws-cloud-projects
+
+* Designed VPC with public and private subnets
+* Deployed EC2 instances with security groups
+* Configured Application Load Balancer (ALB)
+* Implemented Auto Scaling for high availability
+* Managed IAM roles and policies
+* Infrastructure automation using CloudFormation
 
 ---
 
 ### Apache Virtual Host
-https://github.com/chaitanya647/apache-virtual-host  
-- Multi-site hosting
-- Name-based virtual hosting
-- DNS/hosts mapping
+
+🔗 https://github.com/chaitanya647/apache-virtual-host
+
+* Configured name-based virtual hosting for multiple websites
+* Implemented domain mapping using hosts file
+* Managed firewall rules for HTTP access
+* Hosted multiple applications on single server
 
 ---
 
 ### NFS Configuration
-https://github.com/chaitanya647/nfs-configuration  
-- Centralized file sharing
-- Client-server setup
+
+🔗 https://github.com/chaitanya647/nfs-configuration
+
+* Configured centralized file sharing using NFS
+* Implemented client-server architecture
+* Managed secure access control for shared directories
 
 ---
 
 ## Skills
-- Linux Administration
-- AWS Cloud
-- Bash Scripting
-- Networking
-- Git & GitHub
+
+* Linux Administration (RHEL, Process & Service Management)
+* AWS Cloud (EC2, VPC, IAM, ALB, Auto Scaling)
+* DevOps Tools (Git, Bash Scripting, CloudWatch basics)
+* Networking (TCP/IP, DNS, Subnetting)
 
 ---
 
 ## Career Goal
-To become a skilled Linux and AWS Cloud Engineer with strong DevOps fundamentals.
+
+To become a skilled Linux and AWS Cloud Engineer with strong DevOps fundamentals through real-world infrastructure and automation projects.
 
 ---
 
 ## Contact
-- Email: chaitanyabc9@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/chaitanyabc
+
+* 📧 Email: [chaitanyabc9@gmail.com](mailto:chaitanyabc9@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/chaitanyabc
+
