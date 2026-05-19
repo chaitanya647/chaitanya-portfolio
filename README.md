@@ -41,8 +41,6 @@ Aspiring Linux System Administrator and AWS Cloud Engineer with hands-on experie
 
 ### Apache Virtual Host
 
-🔗 https://github.com/chaitanya647/apache-virtual-host
-
 * Configured name-based virtual hosting for multiple websites
 * Implemented domain mapping using hosts file
 * Managed firewall rules for HTTP access
@@ -51,8 +49,6 @@ Aspiring Linux System Administrator and AWS Cloud Engineer with hands-on experie
 ---
 
 ### NFS Configuration
-
-🔗 https://github.com/chaitanya647/nfs-configuration
 
 * Configured centralized file sharing using NFS
 * Implemented client-server architecture
