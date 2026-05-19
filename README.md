@@ -29,8 +29,7 @@ Aspiring Linux System Administrator and AWS Cloud Engineer with hands-on experie
 
 ### AWS Cloud Projects
 
-🔗 https://github.com/chaitanya647/aws-cloud-projects
-
+🔗https://github.com/chaitanya647/AWS-Scalable-HA-Blueprint 
 * Designed VPC with public and private subnets
 * Deployed EC2 instances with security groups
 * Configured Application Load Balancer (ALB)
