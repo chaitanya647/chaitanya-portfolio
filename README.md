@@ -36,10 +36,24 @@ This repository serves as my main portfolio hub, linking to my specialized proje
 ## 💼 Internship Experience
 
 * **Linux & AWS Cloud Engineer Intern** | Besant Technologies, Bangalore
-  * Supervised RHEL virtual assets, scaled active storage footprints utilizing Logical Volume Management (LVM) without down-time, and managed access permissions.
+  * Supervised RHEL virtual assets, scaled active storage footprints utilizing Logical Volume Management (LVM) without downtime, and managed access permissions.
   * Scripted routine health checks, log rotations, and data storage backups via Bash, Python, and automated Cron execution configurations.
   * Configured fault-tolerant network systems utilizing custom Multi-AZ VPC public/private layers, NAT paths, load balancers, and Auto Scaling rules.
 * **CCNA Networking Intern** | Besant Technologies, Bangalore
   * Modeled multi-point enterprise network maps using Cisco Packet Tracer to deploy customized OSPF routing protocols, subnet configurations, DHCP structures, and DNS servers.
 * **Python Backend Intern** | HAEGL Technologies PVT Ltd, Hubli
-  * Created reusable and optimized backend execution modules for an artificial intelligence environment (Eco Sound Project) while cleaning tracking log errors to advance runtime stability
+  * Created reusable and optimized backend execution modules for an artificial intelligence environment (Eco Sound Project) while cleaning tracking log errors to improve runtime stability.
+
+---
+
+## 📜 Professional Certifications
+* Red Hat Enterprise Linux (RHEL) – System Administration & Linux Fundamentals
+* AWS Certified Cloud Practitioner
+* CCNA Networking Fundamentals
+* Django Developer with CNN/DNN
+
+---
+
+## 📨 Contact Details
+* **Email:** [chaitanyabc9@gmail.com](mailto:chaitanyabc9@gmail.com)
+* **LinkedIn:** [linkedin.com/in/chaitanyabc](https://www.linkedin.com/in/chaitanyabc)
