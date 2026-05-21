@@ -1,4 +1,4 @@
-# Chaitanya Chintappanavar – Portfolio 🚀
+# Chaitanya Chintappanavar – Portfolio 
 
 Hi, I'm **Chaitanya Chintappanavar**. I graduated with a BCA (2025) and spent my time hands-on with Red Hat Enterprise Linux (RHEL) administration, AWS cloud infrastructure, and automating workflows with Bash and Python.
 
@@ -6,7 +6,7 @@ This repository serves as my main portfolio hub, linking to my specialized proje
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 * **OS:** RHEL, Ubuntu, VMware Workstation
 * **AWS:** VPC Networking, EC2, Application Load Balancers (ALB), Auto Scaling Groups (ASG), S3, IAM, CloudFormation (IaC), CloudWatch, SNS
@@ -33,7 +33,7 @@ This repository serves as my main portfolio hub, linking to my specialized proje
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
 * **Linux & AWS Cloud Engineer Intern** | Besant Technologies, Bangalore
   * Supervised RHEL virtual assets, scaled active storage footprints utilizing Logical Volume Management (LVM) without downtime, and managed access permissions.
@@ -46,7 +46,7 @@ This repository serves as my main portfolio hub, linking to my specialized proje
 
 ---
 
-## 📜 Professional Certifications
+## Professional Certifications
 * Red Hat Enterprise Linux (RHEL) – System Administration & Linux Fundamentals
 * AWS Certified Cloud Practitioner
 * CCNA Networking Fundamentals
