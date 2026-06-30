@@ -1,8 +1,8 @@
 # Chaitanya Chintappanavar | DevOps Cloud & Linux Infrastructure Engineer
 
 <p align="center">
-  <a href="mailto:chaitanyabc9@gmail.com">📧 Email</a> • 
-  <a href="tel:+916361036785">📱 Mobile: +91-6361036785</a> • 
+  <a href="mailto:chaitanyabc9@gmail.com">📧 chaitanyabc9@gmail.com</a> • 
+  <a href="tel:+916361036785">📱 +91-6361036785</a> • 
   <a href="https://linkedin.com/in/chaitanyabc">💼 LinkedIn Profile</a> • 
   <a href="https://github.com/chaitanya647">💻 GitHub Profile</a>
 </p>
